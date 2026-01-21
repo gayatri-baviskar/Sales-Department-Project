@@ -72,13 +72,13 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## 📊 Visualizations
 
 Here are some visualizations from the project:
+![alt text](groupby%20month%20customer.png)
+![alt text](groupby%20month.png)
+![alt text](heatmap.png)
+![alt text](sales_predictions.png)
+![alt text](sales_train_df_hist.png)
+![alt text](store_info_df_hist.png)
 
-![alt text](Sales%20Department%20Png/groupby%20month%20customer.png)
-![alt text](Sales%20Department%20Png/groupby%20month.png)
-![alt text](Sales%20Department%20Png/heatmap.png)
-![alt text](Sales%20Department%20Png/sales_predictions.png)
-![alt text](Sales%20Department%20Png/sales_train_df_hist.png)
-![alt text](Sales%20Department%20Png/store_info_df_hist.png)
 ## 🛠️ Technologies Used
 
 - **Python**
@@ -92,6 +92,7 @@ Here are some visualizations from the project:
 - **Advanced Time Series Moels**: Implement models like ARIMA or Prophet for more accurate sales foreasting.
 - **Incorporate Additional ata**: Integrate external data sources such as economic indicators or competitor pricing to enhance model perfrmance.
 - **Interactive Dashbords**: Develop dashboards using tools like Tableau or Power BI for real-time sales monitoring and decision upport.
+
 
 
 
